@@ -1,4 +1,5 @@
 {
+    "title": "Bash Reverse Shell",
     "author": "Jojo",
     "description": "Default reverse interactive TCP-based bash shell",
     "args": {

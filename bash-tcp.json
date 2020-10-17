@@ -1,7 +1,7 @@
 {
     "author": "Jojo",
     "description": "Default reverse interactive TCP-based bash shell",
-    "params": {
+    "args": {
         "address": {
             "mandatory": true,
             "pattern": "{{ADDRESS}}",
